@@ -1,0 +1,7 @@
+[Settings]
+  ID = "59cdfc2a-ef70-4fe0-b25b-34397abf331c"
+
+[Build]
+  Build = "make ci"
+  Publish = "."
+  Functions = ""
