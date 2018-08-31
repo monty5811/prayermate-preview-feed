@@ -2,6 +2,9 @@
   ID = "59cdfc2a-ef70-4fe0-b25b-34397abf331c"
 
 [Build]
-  Build = "make ci"
+  command = "make ci"
   Publish = "."
   Functions = ""
+
+[template.environment]
+  FEED_URL = "Change me for your feed url, it will look something like https://prayermate.s3.amazonaws.com/<something_here>.json"
