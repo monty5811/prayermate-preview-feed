@@ -9,8 +9,3 @@ name = "pypi"
 
 "jinja2" = "*"
 requests = "*"
-
-
-[dev-packages]
-
-black = "*"

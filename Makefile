@@ -14,6 +14,3 @@ deploy:
 	netlifyctl deploy
 
 ci: build
-
-py-format:
-	black *.py
