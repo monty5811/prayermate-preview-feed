@@ -8,3 +8,5 @@
 
 [template.environment]
   FEED_URL = "Change me for your feed url, it will look something like https://prayermate.s3.amazonaws.com/<something_here>.json"
+  ONLY_FUTURE = "Set to True to enable or False to disable filtering out old items."
+  THEME_COLOUR = "Change the colour of the url bar on mobile, should be a hex colour code. Or leave blank."
